@@ -10,7 +10,7 @@ I’m passionate about ML/AI, data science, Python programming, and cutting-edge
 - 🌱 I’m currently improving my skills in **Data Science, Web Scraping, and Machine Learning, Agentic AI**.  
 - 🚀 I love turning data into insights and building useful applications.  
 - 💼 Freelancer available for projects and collaboration.  
-- 📫 Connect with me via Twitter: [@abbas72pk](https://twitter.com/abbas72pk) :contentReference[oaicite:3]{index=3}
+
 
 ---
 
@@ -32,7 +32,7 @@ Here are some popular repositories showcasing my work and learning journey:
 
 | Repository | Focus |
 |------------|--------|
-| **Web-Scraping** | Web scraping examples using BeautifulSoup, Selenium & Scrapy. :contentReference[oaicite:9]{index=9} |
+| **Web-Scraping** | Web scraping examples using BeautifulSoup, Selenium & Scrapy. |
 
 ---
 
@@ -50,8 +50,7 @@ Here are some popular repositories showcasing my work and learning journey:
 
 Feel free to reach out:
 
-- 🌐 **Website:** https://thebukhari.vercel.app  
-- 🐦 **Twitter:** [@abbas72pk](https://twitter.com/abbas72pk) :contentReference[oaicite:10]{index=10}
+- 🌐 **Website:** https://thebukhari.vercel.app 
 
 ---
 
