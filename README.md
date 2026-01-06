@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Syed Zafar Abbas (ZafarBukhari)
 
-> Always learn and be realistic. :contentReference[oaicite:1]{index=1}
+> Always learn and be realistic.
 
 ### 👨‍💻 About Me
 
